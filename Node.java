@@ -52,7 +52,6 @@ public class Node {
         return null;
     }
 
-
     private static void search2(Node node, int value) {
         if (!isNodeExist(node)) {
             return;
